@@ -1,5 +1,5 @@
 # mysql-php-api
-## the R in REST API
+## the read (get) in REST API
 
 Simple PHP to read MySQL and serve as JSON API for web applications
 
